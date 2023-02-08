@@ -1,4 +1,4 @@
-# Hi everyone 👋 I am Saheed Adewale Shittu from Lagos, Nigeria (GMT+1).
+# Hi 👋 I am Saheed Adewale Shittu from Lagos, Nigeria (GMT+1).
 
 ## ABOUT ME: (5years of experience including more than 2years of remote working experience)
 I am a frontend software developer with a good knowledge of frontend skills. I have experience working on different web applications some of which I started from scratch. I also have experience working on applications in productions. Few of my best zones are:
