@@ -1,7 +1,7 @@
 # Hi 👋 I am Saheed Adewale Shittu from Lagos, Nigeria (GMT+1).
 
 
-## ABOUT ME: (5years of experience including more than 2years of remote working experience)
+## ABOUT ME: (7years of experience including more than 4years of remote working experience)
 I am a fullstack developer with more focus on front-end development. In my experience as a frontend developer, I have worked on different web applications some of which I started from scratch. I also have experience working on applications in production.
  - Translating Figma design into a working front-end code.
  - Collaborating with the backend developers to integrate the API endpoints on the application.
